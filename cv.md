@@ -1,4 +1,4 @@
-# Dzmitry Basiuk  
+# Dmitry Basiuk  
 ### Contact information:  
 __Phone:__ +37064442064  
 __E-mail:__ basyuk.dima94@gmail.com  
