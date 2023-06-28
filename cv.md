@@ -6,11 +6,12 @@ __Discord:__ dmitry827
 __GitHub:__ Dmtry827
 ### About muself:  
 I am 28 years old and work in the furniture industry. There are no prospects for further development at my current job, I decided to try myself in a completely different area :) My goal is to learn front-end development.  
-* __My strengths:__
+ * __My strengths:__
      + Like to learn new things
      + Getting to the bottom of the problem
      + I can work in a team
-     + Diligence  
+     + Diligence
+     + Coping well with stressful situations 
  ### Skills  
 Started learning HTML / CSS, JS, GitHub
  ### Code example  
